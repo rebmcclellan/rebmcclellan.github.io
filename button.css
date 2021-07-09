@@ -1,0 +1,68 @@
+div, article, button {
+    margin: 20px;
+  }
+  .shadow {
+    box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.5);
+  }
+  .headline {
+    font-size: 2em;
+    border-top: 2px solid darkslategray;
+    border-bottom: 2px solid darkslategray;
+  }
+  .message {
+    background-color: floralwhite;
+    width: 60%;
+    height: 40px;
+  }
+  article {
+    margin: 1em;
+    border: 2px solid darkslategray;
+    padding: 1em;
+    border-radius: 8px;
+    background-color: white;
+  }
+  
+  .title {
+    text-transform: uppercase;
+    background-color: #aac6f3; /* light blue */
+    margin: 0;
+    padding: 0.25em 0.5em;
+  }
+  .comment {
+    margin: 8px;
+    color: gray;
+    font-size: 20px;
+  }
+  body {
+    background-color: #e7e6e3;
+    color: rgb(43, 42, 41);
+  }
+  .red {
+     margin: 1em;
+    padding: 1em;
+    box-shadow: 0px 1px 10px #d1363a;
+    background-position: 100% 0;
+    background-color: #d1363a;
+    width: 300px;
+    height: 200px;
+  }
+  button {
+    width: 200px;
+    border-radius: 8px;
+    border: none;
+    background-color: #4a5953;
+    padding: 1em;
+    color: #e7e6e3;
+    text-transform: uppercase;
+  }
+  .badge {
+    font-size: 16px;
+    width: 60px;
+    height: 20px;
+    background-color: gray;
+    padding: 6px;
+    margin: 8px;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+  }

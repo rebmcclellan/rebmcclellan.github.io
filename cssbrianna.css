@@ -1,0 +1,34 @@
+body{
+    background-color: paleturquoise
+}
+
+h1{
+    font-size: 100px
+}
+h1{
+    background-color: rgb(104, 255, 104);
+}
+p{
+  
+}
+.sandybrownchick{
+    background-color: sandybrown;
+}
+.lightbluechick{
+    background-color:lightskyblue;
+}
+.hotpinkchick{
+    background-color: hotpink;
+}
+.yellowchick{
+    background-color: khaki;
+}
+div{
+   margin: 25px;
+   padding: 1px;
+   border-style: double;
+   border-width: 10px;
+   border-radius: 1000px;
+background-color: powderblue;
+
+}
